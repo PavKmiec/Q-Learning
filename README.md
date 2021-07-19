@@ -11,3 +11,6 @@ To run:
 
 Data will be saved to a csv file in root directory.
 
+![Q-learning(1)](https://user-images.githubusercontent.com/35709452/126138542-e682baa0-a4ed-43bf-a52f-5d592e7a4643.png)
+
+
